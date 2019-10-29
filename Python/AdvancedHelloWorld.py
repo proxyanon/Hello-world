@@ -25,6 +25,8 @@ def countdown(t):
         time.sleep(1)
         t -= 1
         print ('Welcome,', person, '...')
+        
+        #teste
 
 
 t = 5
